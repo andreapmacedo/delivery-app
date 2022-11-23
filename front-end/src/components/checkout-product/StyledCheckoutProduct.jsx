@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const StyledCheckoutProduct = styled.tr`
-  background-color: var(--light-text);
+  background-color: var(--row-table-light);
 
 .Even {
   background-color: var(--row-table-dark);

@@ -102,9 +102,9 @@ export default function AdminForm() {
           data-testid="admin_manage__select-role"
         >
           <option value="customer">Tipo</option>
-          <option value="customer">Customer</option>
+          <option value="customer">Cliente</option>
           <option value="seller">Vendedor</option>
-          <option value="administrator">Admin</option>
+          <option value="administrator">Administrador</option>
         </select>
         <button
           data-testid="admin_manage__button-register"
