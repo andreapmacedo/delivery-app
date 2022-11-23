@@ -39,6 +39,8 @@ const StyledAdminForm = styled.div`
   .InputsAdmin {
     width: 90%;
     padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
   }
 
   select {
