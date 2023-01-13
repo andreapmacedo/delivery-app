@@ -87,7 +87,7 @@ Stacks:
   
   - Acessar o diretório do back-end.
   ```bash
-  cd backend 
+  cd back-end 
   ```
 
   - Definir as varáveis de ambiente em um arquivo .env; 
@@ -117,7 +117,7 @@ Stacks:
   ```bash  
   npm start
   ```
-    - OBS.: este comando irá rodar as migrations e seeders do banco de dados automaticamente, removendo os dados anteriores.
+    <!-- - OBS.: este comando irá rodar as migrations e seeders do banco de dados automaticamente, removendo os dados anteriores. -->
 
   <br />
 
@@ -125,7 +125,7 @@ Stacks:
 
   - Acessar o diretório do front-end.
   ```bash
-  cd frontend 
+  cd front-end 
   ```
 
   - Instalar as dependências.
